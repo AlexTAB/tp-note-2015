@@ -1,6 +1,29 @@
-1.commande Création dépot : git init tp-note-2015;
-2.commande Donner droit en lecture : ssh git@git.math.cnrs.fr perms plm/mon_login/le-depot + READERS mon-collegue
-commande Creation README.Md :
-6.git branch commandes
+1.
+commande Création dépot : git init tp-note-2015;
+// echec creation en terminal donc
+https://github.com/AlexTAB/tp-note-2015.git
+
+git clone https://github.com/AlexTAB/tp-note-2015.git
+git remote add origin https://github.com/AlexTAB/tp-note-2015.git
+git add --all
+git commit -m "Premier envoi AT"
+git push
+
+
+
+
+2.
+commande Donner droit en lecture : https://github.com/AlexTAB/tp-note-2015.git + READERS vjousse
+
+3.commande Creation README.Md :
+4. Création .gitignore
+5.
+Commandes envoi
+git add --all
+git commit -m "Premier envoi AT"
+git push
+
+6.
+commande creation branche : git branch commandes
 
 
