@@ -1,0 +1,6 @@
+1.commande Création dépot : git init tp-note-2015;
+2.commande Donner droit en lecture : ssh git@git.math.cnrs.fr perms plm/mon_login/le-depot + READERS mon-collegue
+commande Creation README.Md :
+6.git branch commandes
+
+
